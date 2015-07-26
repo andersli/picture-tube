@@ -49,7 +49,7 @@ terminal codes.
 
 Set the number of columns to display the image as with `opts.cols`.
 
-Right now only png files work.
+Right now PNG, JPEG, and non-animated GIF files work.
 
 install
 =======

@@ -26,7 +26,8 @@
         "event-stream" : "~0.9.8",
         "buffers" : "~0.1.1",
         "charm" : "~0.1.0",
-        "png-js" : "~0.1.0",
+        "file-type": "^2.10.0",
+        "get-pixels": "^3.2.2",
         "x256" : "~0.0.1",
         "request" : "~2.9.202",
         "optimist" : "~0.3.4"
